@@ -2,7 +2,7 @@
 Random Password Generator
 
 <p align="center">
-<img src="[preview_Random.png](https://i.ibb.co/KLctWRz/preview-Random.png)" alt="layout do projeto" width="100%"/>
+<img src="https://i.ibb.co/KLctWRz/preview-Random.png)" alt="layout do projeto" width="100%"/>
 </p>
 
 ## 🖥️ Projeto
